@@ -1,0 +1,27 @@
+{
+  "name": "pi-shock-bot",
+  "version": "1.0.0",
+  "description": "bot to enable shocking though PiShock device via twitch/other actions",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js 1 3 40"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fukkenawesome/pi-shock-bot.git"
+  },
+  "keywords": [
+    "pishock",
+    "twitch",
+    "puppy"
+  ],
+  "author": "fukkenawesome",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/fukkenawesome/pi-shock-bot/issues"
+  },
+  "homepage": "https://github.com/fukkenawesome/pi-shock-bot#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
